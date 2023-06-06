@@ -15,3 +15,6 @@ This just moves your mouse to avoid that but with more options.
 - First mode, moves the mouse indefinitely with the start button and stops manually with the stop button
 - Second mode, select a time with the slider and it will execute it for as long as you set it with a stop button
 - Third mode is progress based, press z to record the first location and x for the second. It will display an image that you created. An OCR library reads the number and executes as long as it the progress is under 100.
+
+## Video Tutorial
+https://youtu.be/AiDmF_7Dpas
