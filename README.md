@@ -1,7 +1,7 @@
 # ScreenSaverSaver
 You download a game, it eats all up your bandwith.<br>
 So you go do something else while it's downloading.<br>
-You come back and the screen sleeps stopping all download progress<br>
+You come back and the screen sleeps stopping all download progress.<br>
 This just moves your mouse to avoid that but with more options.
 
 ## Prerequisite
